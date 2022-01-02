@@ -1,6 +1,6 @@
-3 experiment with video
+4 experiment with video
 
-<video src="./doc/testvideo.mov">
+<video src="./doc/testvideo.mov"/>
 
 expermiment end
 
